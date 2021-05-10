@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/gtaschuk/erc20-redeemable#readme",
   "dependencies": {
-    "concurrently": "^5.1.0"
+    "concurrently": "^6.1.0"
   }
 }
